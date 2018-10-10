@@ -1,0 +1,131 @@
+Ejercicio fiscal,Nombre de la Oficina,Tipo de Ocupacion,Calle,Numero,Colonia,Codigo Postal,Clave Municipio,Municipio,Clave Estado,Estado
+2016,Subdelegacion de Pesca Aguscalientes,Subdelegacion de Pesca,Avenida de la Convencion Norte,2202,Buenos Aires,20020,1,Aguascalientes,1,Aguascalientes
+2016,Subdelegacion de Pesca Baja California,Subdelegacion de Pesca,11 y Avenida Espinoza,1340,Obrera,22830,1,Ensenada,2,Baja California 
+2016,Subdelegacion de Pesca Baja California Sur,Subdelegacion de Pesca,Agricultura entre Calle Mexico y Calle Durango,Sin Numero,Emiliano Zapata,23070,3,La Paz,3,Baja California Sur
+2016,Subdelegacion de Pesca Campeche,Subdelegacion de Pesca,Gobernadores Esquina Avenida Heroes de Nacozari,291,Santa Lucia,24020,2,Campeche,4,Campeche
+2016,Subdelegacion de Pesca Chiapas,Subdelegacion de Pesca,Tuxtla Gutierrez Chicoasen,S/N,Los Laguitos,29020,101,Tuxtla Gutierrez,5,Chiapas 
+2016,Subdelegacion de Pesca Chihuahua,Subdelegacion de Pesca,Juan Pablo II,4505,Sector Industrial Robinson,31370,19,Chihuahua,6,Chihuahua
+2016,Subdelegacion de Pesca Coahuila,Subdelegacion de Pesca,Central 57 MÇxico-Matehuala,Sin Numero,El Sauz,25294,30,Saltillo,7,Coahuila de Zaragoza
+2016,Subdelegacion de Pesca Colima,Subdelegacion de Pesca,Medellin,560,Popular,28070,2,Colima,8,Colima
+2016,Subdelegacion de Pesca Durango,Subdelegacion de Pesca,Francisco Villa,5025,Ciudad Industrial,34208,5,Durango,10,Durango
+2016,Subdelegacion de Pesca Guanajuato,Subdelegacion de Pesca,Irrigaci¢n,sin numero,Monte de Camargo,38030,7,Celaya,11,Guanajuato
+2016,Subdelegacion de Pesca Guerrero,Subdelegacion de Pesca,Miguel Aleman,315,Centro,39300,1,Acapulco de Ju†rez,12,Guerrero
+2016,Subdelegacion de Pesca Hidalgo,Subdelegacion de Pesca,Carretera Pachuca Tulancingo,Sin Numero,Felipe Angeles,42090,48,Pachuca de Soto,13,Hidalgo
+2016,Subdelegacion de Pesca Jalisco,Subdelegacion de Pesca,Carretera a Chapala,655,Alamo Oriente,45560,39,Tlaquepaque,14,Jalisco
+2016,Subdelegacion de Pesca Estado de Mexico,Subdelegacion de Pesca,Carretera Toluca Zitacuaro,KM 4.5,Los Angeles,51350,118,Zinancantepec,15,Mexico
+2016,Subdelegacion de Pesca Michoacan,Subdelegacion de Pesca,Avenida Ventura,359,Chapultepec Norte,58260,53,Morelia,16,Michoacan de Ocampo
+2016,Subdelegacion de Pesca Morelos,Subdelegacion de Pesca,Avenida Universidad Planta Baja,5,Santa Mar°a Ahuacatitlan,62100,7,Cuernavaca,17,Morelos
+2016,Subdelegacion de Pesca Nayarit,Subdelegacion de Pesca,Insurgentes Oriente,1050,Ciudad del Valle,63157,17,Tepic,18,Nayarit
+2016,Subdelegacion de Pesca Nuevo Leon,Subdelegacion de Pesca,Carretera Monterrey Laredo,Sin Numero,Nueva Castilla,66052,19,General Escobedo,19,Nuevo Leon
+2016,Subdelegacion de Pesca Oaxaca,Subdelegacion de Pesca,Juan De Dios Batiz,109,Vicente Suarez,68156,67,Oaxaca de Juarez,20,Oaxaca
+2016,Subdelegacion de Pesca Puebla,Subdelegacion de Pesca,26 Norte,1202,humboldt,72370,114,Puebla,21,Puebla
+2016,Subdelegacion de Pesca Queretaro,Subdelegacion de Pesca,Constituyentes,201,Lomas de Queretaro,76190,14,Queretaro,22,Queretaro
+2016,Subdelegacion de Pesca Quintana Roo,Subdelegacion de Pesca,Carretera Chetumal Bacalar,Sin Numero,Fovisste Qunta Etapa,77049,4,Othon P. Blanco,23,Quintana Roo
+2016,Subdelegacion de Pesca San Luis Potosi,Subdelegacion de Pesca,Jesus Goytortua,136,Tangamanga,78260,28,San Luis Potosi,24,San Luis Potosi
+2016,Subdelegacion de Pesca Sinaloa,Subdelegacion de Pesca,Carretera a Navolato,Sin Numero,Bachigualato,80140,6,Culiacan,25,Sinaloa
+2016,Subdelegacion de Pesca Sonora,Subdelegacion de Pesca,Boulevard Luis Encinas Jhonson,399,Coloso,83040,12,Hermosillo,26,Sonora
+2016,Subdelegacion de Pesca Tabasco,Subdelegacion de Pesca,Teapa,Sin Numero,Prados de Villahermosa,86030,4,Centro,27,Tabasco
+2016,Subdelegacion de Pesca Tamaulipas,Subdelegacion de Pesca,Hidalgo,5004,Sierra Morena,89210,38,Tampico,28,Tamaulipas
+2016,Subdelegacion de Pesca Tlaxcala,Subdelegacion de Pesca,Libramiento Poniente 2,Sin Numero,Unitlac,90000,33,Tlaxcala,29,Tlaxcala
+2016,Subdelegacion de Pesca Veracruz,Subdelegacion de Pesca,5 de Mayo,Sin Numero,Centro,91700,193,Veracruz,30,Veracruz de Ignacio de la Llave
+2016,Subdelegacion de Pesca Yucatan,Subdelegacion de Pesca,2 A Por Calle 1,401,Diaz Ordaz,97130,50,Merida,31,Yucatan
+2016,Subdelegacion de Pesca Zacatecas,Subdelegacion de Pesca,Secretaria de la Defensa Nacional,88,Centro Guadalupe,98000,56,Zacatecas,32,Zacatecas
+2016,Centro Acuicola Pabellon de Hidalgo,Centro Acuicola,Domicilio Conocido,Sin Numero,Pabellon de Hidalgo,20400,7,Rincon de Romos,1,Aguascalientes
+2016,Oficina Federal de Pesca San Felipe,Oficina de Pesca,"Central Poniente 1, zona de puerto B",Sin Numero,Recinto Portuario,21850,2,San Felipe,2,Baja California
+2016,Oficina Federal de Pesca El Rosario,Oficina de Pesca,Domicilio Conocido,Sin Numero,"Carretera Transpeninsular, Ensenada-La Paz",22960,1,Ensenada,2,Baja California
+2016,Oficina Federal de Pesca Isla de Cedros,Oficina de Pesca,Domicilio Conocido,Sin Numero,Isla de Cedros,22990,1,Ensenada,2,Baja California
+2016,Oficina Federal de Pesca Adolfo Lopez Mateos,Oficina de Pesca,General Mariano Salas Lote 1 Manzana 101,Sin Numero,Sin Colonia,23600,1,Comondu,3,Baja California Sur
+2016,Oficina Federal de Pesca Santa Rosalia,Oficina de Pesca,Carretera Transpeninsular Kilometro 196 500 Tramo de Loreto  Santa Rosalia,Sin Numero,Centro,23920,2,mulege,3,Baja California Sur
+2016,Oficina Federal de Pesca Guerrero Negro,Oficina de Pesca,Boulevard Emiliano Zapata,Sin Numero,loma bonita,23940,2,Guerrero Negro,3,Baja California Sur
+2016,Oficina Federal de Pesca Punta Abre Ojos,Oficina de Pesca,Domicilio Conocido,Sin Numero,punta abre ojos,23970,2,mulege,3,Baja California Sur
+2016,Oficina Federal de Pesca Puerto San Carlos,Oficina de Pesca,Domicilio Conocido ,Sin Numero,San Carlos,23740,1,Comond£,3,Baja California Sur
+2016,Oficina Federal de Pesca Bahia tortugas,Oficina de Pesca,Prolongacion Marina Nacional,Sin Numero,Domicilio Conocido,23950,2,Mulege,3,Baja California Sur
+2016,Oficina Federal de Pesca Isla Arena,Oficina de Pesca,Principal ,Sin Numero,Comunidad Isla Arena,24919,1,Calkini,4,Campeche
+2016,Oficina Federal de Pesca Sabancuy,Oficina de Pesca,Constitucion por Marina,17,Guadalupe,24300,3,Carmen,4,Campeche
+2016,Oficina Federal de Pesca Isla Aguada,Oficina de Pesca,Marina,Sin Numero,Poblado Isla Aguada,24327,3,Carmen,4,Campeche
+2016,Centro Acuicola La Boquilla,Centro Acuicola ,Carretera Interoceanica Saltillo Torreon,Sin Numero,Poblado Boquilla de Conchos,25950,11,San Francisco de Conchos,8,Chihuahua
+2016,Centro Acuicola La Rosa,Centro Acuicola ,Presa Derivadora Gregorio Torres Quintero,Sin Numero,Poblado La Rosa,28910,9,General Cepeda,5,Coahuila de Zaragoza
+2016,Centro Acuicola Jala,Centro Acuicola ,Carretera Puerto Caleras Madrid,Sin Numero,Madrid,35530,11,Tecom†n,6,Colima
+2016,Oficina de Pesca El Palmito,Oficina,Conocido,Sin Numero,Conocido,40989,21,Inde,10,Durango
+2016,Centro Acuicola Tizapan el Alto,Centro Acuicola Tizapan,El Verde Otro,Sin Numero,Tizapan,49400,96,Tizapan El Alto,12,Jalisco
+2016,Centro Acuicola El Zarco,Centro Acuicola el zarco,Carretera Federal MÇxico-Toluca,Sin Numero,La Marqueza,52740,62,Ocoyoacac,15,MÇxico
+2016,Centro Acuicola Zacapu,Centro Acuicola zacapu,Via Ferrocarril Irapuato Ajuno,Sin Numero,Ejido Morelos,58730,107,Zacapu,15,Michoac†n
+2016,Centro Acuicola Zacatepec,Centro Acuicola zacatepec,Privada Campo Experimental zacatepec,Sin Numero,Campo Experimental Zacatepec,62780,31,Zacatepec,16,Morelos
+2016,Oficina Federal de Pesca Salina Cruz,Oficina de Pesca,Interior Zona Industrial Pesquera Salina Cruz,Sin Numero,Guadalupe,70690,79,Salina Cruz,20,Oaxaca
+2016,Centro Acu°cola Temazcal,Centro Acuicola,Carretera Zacapoaxtla Cuetzalan,Sin Numero,Cabeza de Tigre,73680,207,San Miguel Soyaltepec,20,Oaxaca
+2016,Centro Acuicola Apulco,Centro Acuicola,domicilio conocido,Sin Numero,Apulco,73685,258,Zacapoaxtla,21,Puebla
+2016,Centro Acuicola El Varejonal,Centro Acuicola,Carretera el Varejonal,Sin Numero,El Varejonal,80599,3,Badiraguato,25,Sinaloa
+,Centro Acuicola Chametla,Centro Acuicola,Carretera chametla-Majaual,km. 3,Chametla,82870,16,Rosario,25,Sinaloa
+2016,Oficinas centrales,Inmueble Sede,Camaron Sabalo,Sin Numero,Sabalo Country Club,82100,12,Mazatlan,25,Sinaloa
+2016,Oficina Federal de Pesca La Reforma,Oficina de Pesca,Playa Acapulquito,Sin Numero,La Reforma,81680,2,Angostura,25,Sinaloa
+2016,Oficina Federal de Pesca Guaymas,Oficina de Pesca,Esmeralda esquina Naranjo,Sin Numero,Ampliacion Guadalupe,85440,29,Guaymas,26,Sonora
+2016,Oficina Federal de Pesca Huatabampo,Oficina de Pesca,Melchor Ocampo y Ferrocarril,Sin Numero,Centro,85900,33,Huatabampo,26,Sonora
+2016,Oficina Federal de Pesca Puerto Peù§asco,Oficina de Pesca,Calle 12 Lote 1 manzana F,199,Recinto Portuario,83550,48,Puerto Pe§asco,26,Sonora
+2016,Oficina Federal de Pesca Puerto Ceiba,Oficina de Pesca,5 de Febrero esquina Augusto Hernandez Olive,Sin Numero,Puerto Ceiba,86600,14,Paraiso,27,Tabasco
+2016,Oficina Federal de Pesca Sanchez Magallaes,Oficina de Pesca,Avenida Aquiles Serdan esquina Revolucion,Sin Numero,Andres Sanchez Magallanez,86460,2,Cardenas,27,Tabasco
+2016,Oficina Federal de Pesca Jonuta,Oficina de Pesca,La Marina,46,Centro,86780,11,jonuta,27,Tabasco
+2016,Oficina Federal de Pesca Emiliano Zapata,Oficina de Pesca,Campamento General de la SAGARPA y Martin Luis Guzman,Sin Numero,Tierra y Libertad,86992,7,Emiliano Zapata,27,Tabasco
+2016,Oficina Federal de Pesca Jonuta,Oficina Federal de Pesca,Chacamak,Sin Numero,Emiliano Zapata,86980,7,Emiliano Zapata,,
+2016,Oficina Federal de Pesca Emiliano Zapata,Oficina Regional de Pesca,Jimenez,707,Centro,88370,14,Guerrero,27,Tabasco
+2016,Oficina Regional de Pesca Ciudad Guerrero, , ,Sin Numero, ,95460,178, ,27,Tabasco
+2016,Centro Acuicola Los Amates,Centro Acuicola,Carretera Federal 180 Tlacotalpan,Sin Numero,Rancheria Los Amates,95460,178,Tlacotalpan,30,Veracruz
+2016,Centro Acuicola El Real,Centro Acuicola, Carretera Sontecomapan Montep°o El Real,Sin Numero,Sontecomapan,95880,20,Catemaco,30,Veracruz
+2016,Oficina Federal de Pesca Tuxpan,Oficina de Pesca,Mutualismo esquina Garizurieta,10 Alto,Centro,92800,189,Tuxpan,30,Veracruz de Ignacio de la Llave
+2016,Oficina de Pesca Federal Celestun,Oficina de Pesca,5 x 12,110-A,Refugio Pesquero de Cestelun,97367,11,Celestun,31,Yucatan
+2016,Centro Acuicola Julian Adame,Centro Acuicola,Carretera Federal 54 tramo Tabasco,Sin Numero,Tayahua (Zapoqui),99540,55,Villanueva,32,Zacatecas
+2016,Oficina del Comisionado Veracruz,Oficina del Comisionado,"Manuel Avila Camacho, Plaza Acuario (Planta Alta) ",9,Flores Magon,91900,193,Veracruz,30,Veracruz de Ignacio de la Llave
+2016,Oficina Federal de Pesca Mexicali,Oficina de Pesca,Avenida Reforma y Calle L,Sin Numero,Colonia Nueva Mexicali,21100,2,Mexicali,2,Baja California
+2016,Oficina Federal de Pesca Ciudad Constitucion,Oficina de Pesca,Boulevard Agustin Olachea entre Nicolas Bravo y Miguel Hidalgo,Sin Numero,Centro,23600,1,Comond£,3,Baja California Sur
+2016,Oficina  Federal de Pesca Loreto,Oficina de Pesca,Boulevart Adolfo Lopez Mateos,Sin Numero,Centro,23886,9,Loreto,3,Baja California Sur
+2016,Oficina  Federal de Pesca Los Cabos,Oficina de Pesca,Ignacio Altamirano,Sin Numero,San Jose Viejo,23550,8,Los Cabos,3,Baja California Sur
+2016,Oficina  Federal de Pesca Acapetahua,Oficina de Pesca,Escuintla-Acapetahua km 1.5,Sin Numero,Iinterior del Cader Acapetahua,30580,3,Acapetahua,7,Chiapas
+2016,Oficina  Federal de Pesca Arriaga,Oficina de Pesca,9a Norte esquina Avenida Prolongacion 6a Oriente,28A,Centro,30450,9,Arriaga,7,Chiapas
+2016,Oficina  Federal de Pesca Pijijiapan,Oficina de Pesca,Central Poniente entre Primea y Segunda sur,7,Barrio San Martin,30540,69,pijijiapan,7,Chiapas
+2016,Oficina  Federal de Pesca Playas de Catazaja,Oficina de Pesca,Prolongacion Morelos Planta Alta,Sin Numero,Antiguo Palacio Municipal,29980,16,Catazaj†,7,Chiapas
+2016,Oficina Federal de Pesca Tapachula,Oficina de Pesca,2 Norte Manzana B Lote 5,Sin Numero,Parque Industrial Francisco I. Madero,30830,89,Tapachula,7,Chiapas
+2016,Oficina  Federal de Pesca Villa Flores,Oficina de Pesca, Domicilio Conocido Camino al Vergel a un Costado del Auditorio Municipal,Sin Numero,villa flores,30470,108,Villa Flores,7,Chiapas
+2016,Oficina  Federal de Pesca Manzanillo,Oficina de Pesca,"Carretera Manzanillo - Campos, Playa Punta Ventanas",Sin Numero,Canal Maritimo,28200,7,Manzanillo,6,Colima
+2016,Oficina  Federal de Pesca Tecoman,Oficina de Pesca,Avenida Jose Antonio Lea§o Alvarez del Castillo,590,tecoman,28100,9,Tecom†n,6,Colima
+2016,Oficina  Federal de Pesca Tecpan de Galena,Oficina de Pesca,Acapulco-Zihuatanejo km 101.5,Sin Numero,El Cerrito,40900,57,Tecpan de Galeana,12,Guerrero
+2016,Oficina  Federal de Pesca Zihuatanejo,Oficina de Pesca,Avenida Morelos,Sin Numero,Centro Social Municipal,40880,38,Zihuatanejo de Azueta,12,Guerrero
+2016,Oficina  Federal de Pesca Puerto Vallarta,Oficina de Pesca,Francisco Villa Esquina Gonzalez Gallo Local Numero 10 Plaza Delfines,75,Vida Vallarta,48318,67,Puerto Vallarta,14,Jalisco
+2016,Oficina  Federal de Pesca Coahuayana,Oficina de Pesca,24 de Febrero,409,Poblado El Ranchito,60800,14,Coahuayana,16,Michoac†n
+2016,Oficina  Federal de Pesca Cuitzeo,Oficina de Pesca,Francisco de Villafuerte,Sin Numero,Centro,58840,20,Cuitzeo,16,Michoac†n
+2016,Oficina  Federal de Pesca Lazaro Cardenas,Oficina de Pesca,Avenida Circunvalacion,Sin Numero,Campamento JosÇ Mar°a Morelos,60990,52,L†zaro C†rdenas,16,Michoacan
+2016,Oficina  Federal de Pesca Patzcuaro,Oficina de Pesca,Calzada Ibarra ,28,Ibarra,61609,66,Patzcuaro,16,Michoac†n
+2016,Oficina  Federal de Pesca Zitacuaro,Oficina de Pesca,Avenida Hidalgo Oriente ,100,Melchor Ocampo,61505,112,Zit†cuaro,16,Michoac†n
+2016,Oficina de Pesca en Cuernavaca,Subdelegacion de Pesca,Avenida Universidad Planta Baja,5,Santa Maria Ahuacatitlan,62100,7,Cuernavaca,17,Morelos
+2016,Oficina  Federal de Pesca La Pe§ita,Oficina de Pesca,Tlaxcala,15,San Jose  ,63715,4,Compostela,18,Nayarit
+2016,Oficina  Federal de Pesca San Blas,Oficina de Pesca,Cuahutemoc ,Sin Numero,La Playita,63740,12,San Blas,18,Nayarit
+2016,Oficina  Federal de Pesca Santiago Ixcuintla,Oficina de Pesca,Km 2 Carretera Santiago Ixcuincla a Entronque con Carretera Internacional 15,Sin Numero,Los Hornos,63320,15,Santiago Ixcuintla,18,Nayarit
+2016,Oficina  Federal de Pesca Tecuala,Oficina de Pesca,Zaragoza Esquina Puebla,Sin Numero,Centro,63450,16,Tecuala,18,Nayarit
+2016,Oficina  Federal de Pesca Tuxpan,Oficina de Pesca,Eduardo Audelo,24,El Beis,63200,18,Tuxpan,18,Nayarit
+2016,Oficina  Federal de Pesca Pinotepa Nacional,Oficina de Pesca,Septima Poniente,Sin Numero,Barrio Yatacu,81600,482,Santiago Pinotepa Nacional,20,Oaxaca
+2016,Oficina  Federal de Pesca Puerto Angel,Oficina de Pesca,Domicilio Conocido Virgilio Uribe Interior Agencia Municipal ,Sin Numero,Sin Colonia,79902,324,San Pedro Pochutla,20,Oaxaca
+2016,Oficina  Federal de Pesca Puerto Escondido,Oficina de Pesca,Mariano Matamoros,Sin Numero,Lazaro Cardenas,71980,318,San Pedro Mixtepex,20,Oaxaca
+2016,Oficina  Federal de Pesca Cancun,Oficina de Pesca,Punta Niche Sabi Supermanzana 23,10,Benito Juarez,77500,5,Benito Ju†rez,23,Quintana Roo
+2016,Oficina  Federal de Pesca Playa del Carmen,Oficina de Pesca,Avenida 15 Sur entre Adolfo Rosado Salas y Calle 3 Sur,249,Centro,77500,1,Cozumel,23,Quintana Roo
+2016,Oficina  Federal de Pesca holbox,Oficina de Pesca,Enrique Santa Miguel esquina Victoria Santa ana ,Sin Numero,Centro,77760,9,Tul£m,23,Quintana Roo
+2016,Oficina Federal de Pesca El Rosario,Oficina de Pesca,Libertad  ,Sin Numero,Marcelo Loya,82800,14,El Rosario,25,Sinaloa
+2016,Oficina Federal de Pesca Escuinapa,Oficina de Pesca,Calle Prolongacion Centenario Entre Revolucion y Polanco,Sin Numero,Centro,82400,9,Escuinapa,25,Sinaloa
+2016,Oficina Federal de Pesca Guasave,Oficina de Pesca,Benigno Valenzuela y Hernando de Villafa§e,Sin Numero,Centro,81000,11,Guasave,25,Sinaloa
+2016,Oficina Federal de Pesca Los Mochis,Oficina de Pesca,Marcial Ordo§es y Guillermo Prieto,Sin Numero,Centro,81360,1,Ahome,25,Sinaloa
+2016,Oficina Federal de Pesca Mazatlan,Oficina de Pesca,Avenida Puerto de Mazatlan,Sin Numero,Parque Industrial Alfredo V Bonfil,82050,12,Mazatlan,25,Sinaloa
+2016,Oficina Federal de Pesca Ciudad Obregon,Oficina de Pesca,Guadalupe Victoria Esquina California,311,La Cortina Primera Seccion,82150,18,Cd. Obregon ,26,Sonora
+2016,Oficina Federal de Pesca Aldama,Oficina de Pesca,Dentro de la Presidencia Municipal,Sin Numero,Sin Colonia,89670,2,Aldama,28,Tamaulipas
+2016,Oficina Federal de Pesca Ciudad Victoria,Oficina de Pesca,Luis Caballero,925,Tamatan,87080,41,Cd. Victoria,28,Tamaulipas
+2016,Oficina Federal de Pesca Matamoros,Oficina de Pesca,Avenida Rigo Tovar,2048,Zona Industrial Kilometro 1,87325,22,Matamoros,28,Tamaulipas
+2016,Oficina Federal de Pesca Tampico,Oficina de Pesca,Avenida Heriberto Jara,1064,Morelos,89290,38,Tampico,28,Tamaulipas
+2016,Oficina Federal de Pesca Ciudad Cuahutemoc,Oficina de Pesca,Abasolo y Masetas,Sin Numero,Centro,92030,133,Cd. Cuauhtemoc,30,Veracruz
+2016,Oficina Federal de Pesca Coatzacoalcos,Oficina de Pesca,Cuervos  ,53,Santa Isabel Segunda Etapa,96536,39,Coatzacoalcos,30,Veracruz
+2016,Oficina Federal de Pesca Panuco,Oficina de Pesca,Domicilio Conocido Carretera Panuco Tempoal Kilometro 2 ,Sin Numero,Rafael Hernandez de Ochoa,93995,123,Panuco,30,Veracruz
+2016,Oficina Federal de Pesca La Laja,Oficina de Pesca,Domicilio Conocido,Sin Numero,Conocido,92090,121,Ozuluama,30,Veracruz
+2016,Oficina Federal de Pesca Tecolutla,Oficina de Pesca,Vicente Guerrero esquina Alvaro Obregon,Sin Numero,Centro,93570,69,Gutierrez Zamora,30,Veracruz
+2016,Oficina Federal de Pesca Progreso,Oficina de Pesca,Calle 29 Por Calle 74 Y 76,128 A,Centro,97720,59,Progreso,31,Yucatan
+,,,,,,,,, , 
+,,,,,,,,, , 
+,,,,,,,,,,
+, , ,,,,,,,,
+ ,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
